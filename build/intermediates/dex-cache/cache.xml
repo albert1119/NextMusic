@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta10/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="863562b367d763d45f9bb44f58a5029007f79555">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/jnihelpers-1.0-39eb985bf04f65b2ba82aa1a2bc58f9dd6ef28a2.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-113211c1d846a5798e14eca0557433c5489a70c1.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-822833853054079c0f54f08889e87bead50e8849.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="303cdfb0e82e35c8ee189313e3d0ccc144accdc4">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/classes-f9f328d8064960018511e56f13cc1a0747114880.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/classes-8bf3c45901e02ce35b36dfbbf691a8edbb734b9c.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a2736a2c8e3bd1d508baa11851e9a77f62646d08">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/classes-40c00ba7fadb6faf6dc0480fa8844006ae86ee2d.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/albert/AndroidStudioProjects/NextMusic/app/build/intermediates/pre-dexed/debug/classes-ec67e89601b0eee7f030778abb2db92de2381846.jar" />
+    </item>
+
+</items>
